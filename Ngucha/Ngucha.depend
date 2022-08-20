@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621850082 source:c:\users\pc\documents\chaga john\ngucha\main.c
+	<stdio.h>
+	<stdlib.h>
+
